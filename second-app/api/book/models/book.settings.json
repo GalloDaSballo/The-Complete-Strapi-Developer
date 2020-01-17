@@ -1,0 +1,35 @@
+{
+  "connection": "default",
+  "collectionName": "books",
+  "info": {
+    "name": "book"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "picture": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload",
+      "required": false
+    },
+    "gallery": {
+      "collection": "file",
+      "via": "related",
+      "plugin": "upload",
+      "required": false
+    },
+    "users": {
+      "plugin": "users-permissions",
+      "collection": "user",
+      "via": "books",
+      "dominant": true,
+      "private": true
+    }
+  }
+}

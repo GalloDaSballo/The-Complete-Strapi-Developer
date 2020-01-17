@@ -1,0 +1,54 @@
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous">
+</script>
+<script>
+  console.log("before JQuery")
+  $(document).ready(function() {
+    console.log("document.ready")
+    $.ajax('http://localhost:1337/games?title=SuperMegaGame', {
+      success: function(data){
+        console.log("jQuery.success data", data)
+        $(data[0].scores).each(function(i, entry){
+          const {player, score} = entry
+
+          const scoreCard = `
+            <div class="scoreCard">
+              <p>Player: ${player} </p>
+              <p>Score: ${score}</p>
+            </div>
+          `
+
+          $('.container').append(scoreCard)
+
+
+        })
+
+      }
+    })
+  })
+</script>
+<style>
+  * {
+    font-family: Helvetica, sans-serif;
+  }
+  .container{
+    max-width: 600px;
+    margin: auto;
+    padding: 42px 24px;
+  }
+  .scoreCard{
+    border: 1px solid #eee;
+    border-radous: 3px;
+    padding: 25px;
+    margin: 12px;
+  }
+</style>
+<div class="container">
+  <h1>ScoreBoard for SuperMegaGame</h1>
+  <div class="scoreCard">
+    <p>Player: Alex </p>
+    <p>Score: 300</p>
+  </div>
+</div>

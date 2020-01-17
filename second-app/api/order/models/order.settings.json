@@ -1,0 +1,24 @@
+{
+  "connection": "default",
+  "collectionName": "orders",
+  "info": {
+    "name": "order"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "product": {
+      "type": "string"
+    },
+    "amount_in_cents": {
+      "type": "integer"
+    },
+    "user": {
+      "plugin": "users-permissions",
+      "model": "user",
+      "via": "orders"
+    }
+  }
+}

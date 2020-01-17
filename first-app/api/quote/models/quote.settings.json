@@ -1,0 +1,31 @@
+{
+  "info": {
+    "name": "quote"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "enum": {
+      "type": "enumeration",
+      "enum": [
+        "asd",
+        "asd",
+        "asd",
+        "asd"
+      ]
+    },
+    "thumbnail": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload",
+      "required": false
+    }
+  },
+  "connection": "default",
+  "collectionName": "quotes"
+}

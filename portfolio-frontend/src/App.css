@@ -1,0 +1,14 @@
+*{
+  font-family: Helvetica, sans-serif;
+}
+
+.PortfolioItem{
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+.PortfolioItem__textBox{
+  position: absolute;
+  bottom: 50px;
+  right: 50px;
+}

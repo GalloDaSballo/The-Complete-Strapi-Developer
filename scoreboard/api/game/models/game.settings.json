@@ -1,0 +1,20 @@
+{
+  "connection": "default",
+  "collectionName": "games",
+  "info": {
+    "name": "game"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "scores": {
+      "via": "game",
+      "collection": "score"
+    }
+  }
+}

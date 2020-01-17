@@ -1,0 +1,28 @@
+{
+  "info": {
+    "name": "portfolio"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "background": {
+      "type": "string"
+    },
+    "user": {
+      "plugin": "users-permissions",
+      "model": "user",
+      "via": "portfolios",
+      "private": true
+    }
+  },
+  "connection": "default",
+  "collectionName": "portfolios"
+}

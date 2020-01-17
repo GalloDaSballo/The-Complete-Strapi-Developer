@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/magazines",
+      "handler": "magazine.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/magazines/count",
+      "handler": "magazine.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/magazines/:id",
+      "handler": "magazine.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/magazines",
+      "handler": "magazine.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/magazines/:id",
+      "handler": "magazine.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/magazines/:id",
+      "handler": "magazine.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

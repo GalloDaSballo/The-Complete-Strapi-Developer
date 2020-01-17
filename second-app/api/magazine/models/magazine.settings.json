@@ -1,0 +1,22 @@
+{
+  "info": {
+    "name": "magazine"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "picture": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload",
+      "required": false
+    }
+  },
+  "connection": "default",
+  "collectionName": "magazines"
+}
