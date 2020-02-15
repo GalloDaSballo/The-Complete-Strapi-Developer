@@ -21,51 +21,46 @@ You are better off watching the videos, coding along and then using the code as 
 
 
 
-### Strapi File Upload
+### Strapi File Upload
+[Strapi File Upload](https://github.com/GalloDaSballo/strapi-file-upload)
 All the ways to file upload with strapi
 File upload with strapi with: fetch and FormData
 - Single File Upload
 - Multiple File Upload
 - File upload related to a content type
 
-[Strapi File Upload](https://github.com/GalloDaSballo/strapi-file-upload)
+
 
 ### Strapi Profile
+[Secure Strapi Profile App](https://github.com/GalloDaSballo/strapi-profile)
 Build a SECURE, production ready Login, Signup and Profile editing system.
 This app shows you the proper way of handling JWT tokens.
 It shows the Production ready way to safely work with user data.
 
-[Secure Strapi Profile App](https://github.com/GalloDaSballo/strapi-profile)
-
 
 ### Strapi Inventory Management
+[Strapi Inventory Management App](https://github.com/GalloDaSballo/strapi-inventory)
 Build a Stock Management App.
 Use Strapi as the backend.
 Use React to visualize the Stock Events.
 
-[Strapi Inventory Management App](https://github.com/GalloDaSballo/strapi-inventory)
-
 ### Strapi Portfolio Builder
+[Strapi Portfolio Builder](https://github.com/GalloDaSballo/strapi-portfolio)
 Build a website portfolio builder with React and Strapi.
 
-[Strapi Portfolio Builder](https://github.com/GalloDaSballo/strapi-portfolio)
-
 ### Strapi Leaderboard
+[Strapi Leaderboard](https://github.com/GalloDaSballo/strapi-leadearboard)
 Build a leaderboard system with Strapi and jQuery!
 
-[Strapi Leaderboard](https://github.com/GalloDaSballo/strapi-leadearboard)
-
 ### Strapi "first-app"
+[Strapi Simple App](https://github.com/GalloDaSballo/strapi-simple-app)
 The first app used in the course, just for reference.
 Very basic app that enables CRUD operations.
 
-[Strapi Simple App](https://github.com/GalloDaSballo/strapi-simple-app)
-
 ### Strapi "second-app"
+[Strapi App with Components, custom services, cron and functions](https://github.com/GalloDaSballo/strapi-app-with-components)
 The second app used in the course, just for reference.
 Shows usage of custom services, functions, cron and components
-
-[Strapi App with Components, custom services, cron and functions](https://github.com/GalloDaSballo/strapi-app-with-components)
 
 ## Private Coaching
 I offer private coaching for students who want to:
