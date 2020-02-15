@@ -38,7 +38,7 @@ This app shows you the proper way of handling JWT tokens.
 It shows the Production ready way to safely work with user data.
 
 
-### Strapi Inventory Management
+### Strapi Inventory Management
 [Strapi Inventory Management App](https://github.com/GalloDaSballo/strapi-inventory)
 Build a Stock Management App.
 Use Strapi as the backend.
@@ -57,7 +57,7 @@ Build a leaderboard system with Strapi and jQuery!
 The first app used in the course, just for reference.
 Very basic app that enables CRUD operations.
 
-### Strapi "second-app"
+### Strapi "second-app"
 [Strapi App with Components, custom services, cron and functions](https://github.com/GalloDaSballo/strapi-app-with-components)
 The second app used in the course, just for reference.
 Shows usage of custom services, functions, cron and components
