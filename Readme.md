@@ -2,11 +2,9 @@
 
 This repo is a companion repo to the Complete Strapi Developer Course.
 
-Available on Podia: SOON
+Available on Podia: https://strapi.entreprenerd.xyz/complete-strapi-course?coupon=STRAPI_LAUNCH
 
-And available on Udemy:
-[https://www.udemy.com/course/the-complete-strapi-course/?couponCode=STRAPI_LAUNCH_DATE]
-(https://www.udemy.com/course/the-complete-strapi-course/?couponCode=STRAPI_LAUNCH_DATE)
+And available on Udemy: https://www.udemy.com/course/the-complete-strapi-course/?couponCode=STRAPI_LAUNCH_DATE
 
 The course also comes with 3 cheat sheet PDFs with tons of tips, tricks and reminders.
 
@@ -43,6 +41,12 @@ It shows the Production ready way to safely work with user data.
 Build a Stock Management App.
 Use Strapi as the backend.
 Use React to visualize the Stock Events.
+
+[Updated Inventory Management App] (https://github.com/GalloDaSballo/strapi-better-inventory)
+Updated version with:
+- Add stock
+- Add stock events
+- Visualize totals and stock events
 
 ### Strapi Portfolio Builder
 [Strapi Portfolio Builder](https://github.com/GalloDaSballo/strapi-portfolio)
