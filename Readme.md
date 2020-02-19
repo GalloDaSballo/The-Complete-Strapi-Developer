@@ -42,7 +42,7 @@ Build a Stock Management App.
 Use Strapi as the backend.
 Use React to visualize the Stock Events.
 
-[Updated Inventory Management App] (https://github.com/GalloDaSballo/strapi-better-inventory)
+[Updated Inventory Management App](https://github.com/GalloDaSballo/strapi-better-inventory)
 Updated version with:
 - Add stock
 - Add stock events
