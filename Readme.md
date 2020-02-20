@@ -2,9 +2,10 @@
 
 This repo is a companion repo to the Complete Strapi Developer Course.
 
-Available on Podia: https://strapi.entreprenerd.xyz/complete-strapi-course?coupon=STRAPI_LAUNCH
+Available on Podia for just $7.99:
+https://strapi.entreprenerd.xyz/complete-strapi-course?coupon=STRAPI_LAUNCH
 
-And available on Udemy: https://www.udemy.com/course/the-complete-strapi-course/?couponCode=STRAPI_LAUNCH_DATE
+And available on Udemy: https://www.udemy.com/course/the-complete-strapi-course/?couponCode=STRAPI_LAUNCH
 
 The course also comes with 3 cheat sheet PDFs with tons of tips, tricks and reminders.
 
