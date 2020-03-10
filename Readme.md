@@ -28,7 +28,11 @@ File upload with strapi with: fetch and FormData
 - Multiple File Upload
 - File upload related to a content type
 
-
+### Strapi File Upload with React
+- File upload
+- Show Progress
+- Show loading message
+https://github.com/GalloDaSballo/strapi-react-file-upload
 
 ### Strapi Profile
 [Secure Strapi Profile App](https://github.com/GalloDaSballo/strapi-profile)
