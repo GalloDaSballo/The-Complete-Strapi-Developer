@@ -70,6 +70,7 @@ Very basic app that enables CRUD operations.
 [Strapi App with Components, custom services, cron and functions](https://github.com/GalloDaSballo/strapi-app-with-components)
 The second app used in the course, just for reference.
 Shows usage of custom services, functions, cron and components
+[MongoDB Version of Strapi App with Components, etc..](https://github.com/GalloDaSballo/strapi-app-with-components-mongo)
 
 ## Private Coaching
 I offer private coaching for students who want to:
