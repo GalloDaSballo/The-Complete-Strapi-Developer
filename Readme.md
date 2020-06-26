@@ -18,6 +18,11 @@ Read the Readme of each repo for hints on how to clone the code and set up your 
 Please note that the code is kind of useless unless you know what it's doing.
 You are better off watching the videos, coding along and then using the code as a reminder.
 
+### Strapi FullStack Quickstart
+A photo sharing application
+Meant to show you most of strapi while building a project.
+https://github.com/GalloDaSballo/Strapi-Quickstart-Backend
+https://github.com/GalloDaSballo/Strapi-Quickstart-Frontend
 
 
 ### Strapi File Upload
