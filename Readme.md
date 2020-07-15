@@ -22,6 +22,15 @@ https://github.com/GalloDaSballo/Strapi-Quickstart-Backend
 https://github.com/GalloDaSballo/Strapi-Quickstart-Frontend
 
 
+### Strapi Gatsby Blog
+Build a blog as an introduction to Gatsby + Strapi
+https://github.com/GalloDaSballo/strapi-gatsby-blog
+
+### Strapi Gatsby Stripe Ecommerce 
+Build a fully fledged e-commerce with Strapi, Gatsby and Stripe as Payment Processing
+Backend: https://github.com/GalloDaSballo/Strapi-Gatsby-Ecommerce-Backend
+Frontend: https://github.com/GalloDaSballo/Strapi-Gatsby-Ecommerce-Frontend
+
 ### Strapi File Upload
 [Strapi File Upload](https://github.com/GalloDaSballo/strapi-file-upload)
 All the ways to file upload with strapi
