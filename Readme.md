@@ -83,6 +83,16 @@ The second app used in the course, just for reference.
 Shows usage of custom services, functions, cron and components
 [MongoDB Version of Strapi App with Components, etc..](https://github.com/GalloDaSballo/strapi-app-with-components-mongo)
 
+## Plugin Development
+Here's the code for the newest section of The Complete Strapi Course
+### Admin API
+https://github.com/GalloDaSballo/strapi-plugin-entreprenerd-stripe
+https://github.com/GalloDaSballo/Strapi-Plugin-Stripe-Demo
+### Field API
+https://github.com/GalloDaSballo/Strapi-Plugin-Field-Demo
+### Settings API
+https://github.com/GalloDaSballo/Strapi-Plugin-Settings-Demo
+
 ## Private Coaching
 I offer private coaching for students who want to:
 - Learn Strapi as fast as possible
